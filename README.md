@@ -2,8 +2,6 @@
 
 Hi, I am Charlie Mora and I am a Software Engineer. I am currently pursuing my Bachelor Degree in Computer Science @ Tec de Monterrey. I am a Design Enthusiast with experience building Web and Mobile Applications. Also looking forward to become a game developer!
 
-Currently working @ Patio23
-
 Check out my web portfolio at [this repo!](https://github.com/CGM-Charlie/cgm-web-portfolio)
 
 ## Need to tell me something? HMU!
